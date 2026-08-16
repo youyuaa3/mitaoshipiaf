@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youyuaa3.github.io/mitaoshipiaf/sitemap.xml
